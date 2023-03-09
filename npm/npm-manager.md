@@ -18,7 +18,6 @@
 ```
 
 $ npm init -y
-Wrote to D:\devExpo\css-scssProjects\package.json:
 
 ```json
 {

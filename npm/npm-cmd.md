@@ -3,18 +3,19 @@
 - npm init -y
 
 ```bash
-$npm install package-name
-$npm i package-name
+$npm install -g typescript
+$npm install sass
+$npm i sass
 
-$npm uninstall package-name
-$npm un package-name
+$npm uninstall sass
+$npm un -g typescript
+$npm un sass
 
 $npm install autoprefixer concat nodemon npm-run-all postcss-cli sass --save-dev
 $npm i live-server --save-dev
 
-$npm uninstall -D package-name
-$npm uninstall --save-dev package-name
+$npm uninstall -D sass
+$npm uninstall --save-dev sass
 
-$npm run compile-sassile-sass
 $npm run go-live
 ```
