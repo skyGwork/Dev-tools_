@@ -5,7 +5,7 @@
     Created directory 'C:\Users\skyde/.ssh'.
     Enter passphrase (empty for no passphrase):
     Enter same passphrase again:
-
+    
     Your identification has been saved in C:\Users\skyde/.ssh/id_rsa.
 
 - C:\Users\skyde\.ssh>ssh-add .\id_rsa

@@ -1,0 +1,2 @@
+- @git : GitHub Docs and learnings
+- @cmd : CMD Commands Windows /linux terminal - others
